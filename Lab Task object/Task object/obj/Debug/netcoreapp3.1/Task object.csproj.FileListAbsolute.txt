@@ -1,0 +1,14 @@
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.exe
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.deps.json
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.runtimeconfig.json
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.runtimeconfig.dev.json
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.dll
+C:\Users\gularrs\source\repos\Lab Task object\Task object\bin\Debug\netcoreapp3.1\Task object.pdb
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.csproj.AssemblyReference.cache
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.AssemblyInfoInputs.cache
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.AssemblyInfo.cs
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.csproj.CoreCompileInputs.cache
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.dll
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.pdb
+C:\Users\gularrs\source\repos\Lab Task object\Task object\obj\Debug\netcoreapp3.1\Task object.genruntimeconfig.cache
